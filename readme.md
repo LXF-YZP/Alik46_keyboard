@@ -39,6 +39,3 @@ Parts list:
 
 _具体构建指南请参考B站视频讲解_
 
-# License
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
