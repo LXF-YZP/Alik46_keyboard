@@ -28,10 +28,6 @@ Parts list:
 |  卧贴连接器          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=565715285795&_u=q1hre4eh267c                                                                        |
 |  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
 |  超薄卧贴端子          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=671868863106&_u=q1hre4eh5865                                                                        |
-|  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
-|  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
-|  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
-
 
 ## 外壳打印
 - 自己使用3D打印机进行打印，由于外壳不存在太多曲面，所以支撑部分不用很复杂。本人使用拓竹A1打印，效果不错。
