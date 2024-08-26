@@ -20,14 +20,14 @@ Parts list:
 | 轴座          | 46     | 凯华轴座                                             |
 | 锂电池                     | 1     |                                                                                            |
 | 蓝牙芯片                | 1    | E73-2G4M08S1CX或者E73-2G4M08S1CX                                                                                   |
-| 螺柱 | 4    | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| 螺柱 m2x4x3.5| 4    |     |
 | 蓝牙天线                   | 1     |  https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=583773660768&_u=q1hre4eh63e3                                                                                          |
-| 螺丝                   | 4      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
+| 螺丝   m2x4                | 4      |  |
 |  二极管          | 46     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=528155613240&_u=q1hre4eh412c                                                                        |
 |  按键开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=546724645617&_u=q1hre4eh5b12                                                                        |
 |  卧贴连接器          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=565715285795&_u=q1hre4eh267c                                                                        |
 |  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
-|  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
+|  超薄卧贴端子          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=671868863106&_u=q1hre4eh5865                                                                        |
 |  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
 |  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
 |  拨动开关          | 1     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
