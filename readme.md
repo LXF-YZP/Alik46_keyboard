@@ -8,9 +8,7 @@
 # 固件地址
 - [zmk固件](https://github.com/LXF-YZP/alik46)
 
-## Electronic components
-
-You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
+## 元器件清单
 
 Parts list:
 
@@ -46,13 +44,11 @@ Please find detailed instructions on how to print the case on the online instruc
 There are optional tents, use the same ones as for the [Charybdis Mini 3x6](https://github.com/bastardkb/charybdis).
 
 
-## Get a kit from BastardKB
-
-You can also get a full Kit, including case and all PCBs and electronics required on the shop:
-https://bastardkb.com/
-
-
-If you want to print the case yourself, you can also get just the electronics Kit.
+## 外壳获取
+>>> 自己使用3D打印机进行打印，由于外壳不存在太多曲面，所以支撑部分不用很复杂。本人使用拓竹A1打印，效果不错。
+>>> 在未来工厂进行下单打印。
+>>> 在三维猴进行下单打印。
+>>> 在客制化群里面花钱请老哥进行代打或者咸鱼花钱请代打。
 
 # Build guide
 
