@@ -1,6 +1,6 @@
 # Alik46
 
-一个类40配列的蓝牙键盘，使用zmk固件。
+一个类40配列的蓝牙键盘，使用zmk固件。定位板和外壳是一体的，目前外壳支持pcb卫星轴。
 
 ![](pics/4.png)
 
@@ -12,18 +12,18 @@
 
 Parts list:
 
-| Part name                         | Amount | Link                                                                                       |
+| 名称                        | 数量 | 购买链接                                                                                      |
 | --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| Flexible PCB for the plate        | 2      | https://github.com/Bastardkb/TBK-Mini-PCB-plate                                            |
-| Flexible PCB for the thumbs       | 2      | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                    |
-| Elite-C                           | 2      |                                                                                            |
-| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                                |
-| SOD123 Diodes                     | 42     |                                                                                            |
-| Ribbon cables Flexstrip           | 34     | Farnell, Aliexpress                                                                        |
-| M4 8mm Torx Screw                 | 14     | Conrad                                                                                     |
-| M4 screw insert, M4 X D6.0 X L5.0 | 14     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
-| Audio jack, SMD                   | 2      |                                                                                            |
-| Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
+| pcb基板       |   1    | https://github.com/Bastardkb/TBK-Mini-PCB-plate                                            |
+| pcb卫星轴       | 2      | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                    |
+| 轴体                           | 46      |                                                                                            |
+| 轴座          | 46     | https://github.com/Bastardkb/Elite-C-holder                                                |
+| 二极管                     | 46     |                                                                                            |
+| 锂电池           | 1     | Farnell, Aliexpress                                                                        |
+| 蓝牙芯片                | 1    | Conrad                                                                                     |
+| 螺柱 | 4    | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| 蓝牙天线                   | 1     |                                                                                            |
+| 螺丝                   | 4      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
 
 ## 外壳打印
