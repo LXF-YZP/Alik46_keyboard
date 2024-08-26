@@ -15,9 +15,9 @@ Parts list:
 | 名称                        | 数量 | 购买链接                                                                                      |
 | --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | pcb基板       |   1    | https://www.jlc.com/newOrder/#/pcb/pcbPlaceOrder                                          |
-| pcb卫星轴       | 2      | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                    |
+| pcb卫星轴       | 2      |                                      |
 | 轴体                           | 46      |                                                                                            |
-| 轴座          | 46     | https://github.com/Bastardkb/Elite-C-holder                                                |
+| 轴座          | 46     | 凯华轴座                                             |
 | 锂电池                     | 1     |                                                                                            |
 | 蓝牙芯片                | 1    | E73-2G4M08S1CX或者E73-2G4M08S1CX                                                                                   |
 | 螺柱 | 4    | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
