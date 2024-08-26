@@ -46,8 +46,11 @@ There are optional tents, use the same ones as for the [Charybdis Mini 3x6](http
 
 ## 外壳获取
 >>> 自己使用3D打印机进行打印，由于外壳不存在太多曲面，所以支撑部分不用很复杂。本人使用拓竹A1打印，效果不错。
+
 >>> 在未来工厂进行下单打印。
+
 >>> 在三维猴进行下单打印。
+
 >>> 在客制化群里面花钱请老哥进行代打或者咸鱼花钱请代打。
 
 # Build guide
