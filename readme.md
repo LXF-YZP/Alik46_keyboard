@@ -6,7 +6,7 @@
 
 
 # 固件地址
-- [zmk固件](https://github.com/LXF-YZP/Alik46_keyboard)
+- [zmk固件](https://github.com/LXF-YZP/alik46)
 
 ## Electronic components
 
