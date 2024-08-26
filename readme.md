@@ -25,26 +25,8 @@ Parts list:
 | Audio jack, SMD                   | 2      |                                                                                            |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
-If you want RGB, you will also need:
 
-| Part name               | Amount | Format                                |
-| ----------------------- | ------ | ------------------------------------- |
-| SK6812 Mini-E LEDs      | 42     |                                       |
-| Capacitor, 1uF          | 4      | 1206                                  |
-| Resistor, 330Ohms       | 4      | 1206                                  |
-| Wires                   |        | 28 AWG recommended, Black, Red, Color |
-| Ribbon cables Flexstrip | 6      |                                       |
-
-## Print the case
-
-The STL files are included in this Github repository.
-
-Please find detailed instructions on how to print the case on the online instructions linked below.
-
-There are optional tents, use the same ones as for the [Charybdis Mini 3x6](https://github.com/bastardkb/charybdis).
-
-
-## 外壳获取
+## 外壳打印
 - 自己使用3D打印机进行打印，由于外壳不存在太多曲面，所以支撑部分不用很复杂。本人使用拓竹A1打印，效果不错。
 
 - 在未来工厂进行下单打印。
@@ -53,27 +35,9 @@ There are optional tents, use the same ones as for the [Charybdis Mini 3x6](http
 
 - 在客制化群里面花钱请老哥进行代打或者咸鱼花钱请代打。
 
-# Build guide
+# 构建指南
 
-You can find detailed instruction on the online documentation linked below. For the TBK Mini, please follow the Skeletyl guide.
-
-# Finding help
-
-- Discord: https://bastardkb.com/discord
-- Website: https://bastardkb.com/
-- Docs: https://docs.bastardkb.com
-
-
-# Forks
-
-- [With loligagger holder for nice!nanos](https://github.com/nathanielks/TBK-Mini) - reset switch and power switch
-
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
+_具体构建指南请参考B站视频讲解_
 
 # License
 
